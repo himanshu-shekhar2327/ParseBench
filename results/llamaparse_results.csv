@@ -1,0 +1,7 @@
+document,format,tier,status,duration_seconds,output_bytes,error
+documents/digital_pdf/synthetic_invoice.pdf,.pdf,fast,success,5.205,241,
+documents/scanned_pdf/synthetic_invoice_scan.pdf,.pdf,fast,success,5.3474,282,
+documents/docx/synthetic_invoice.docx,.docx,fast,success,5.3443,427,
+documents/xlsx/synthetic_invoice.xlsx,.xlsx,fast,success,5.3756,935,
+documents/pptx/synthetic_invoice.pptx,.pptx,fast,success,8.9794,737,
+documents/images/synthetic_invoice.png,.png,fast,success,6.5412,271,

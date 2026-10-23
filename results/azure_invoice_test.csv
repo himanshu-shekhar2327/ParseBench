@@ -1,0 +1,5 @@
+file,status,time_seconds,characters,output,error
+documents/digital_pdf/synthetic_invoice.pdf,success,11.31,407,outputs/azure_invoice_test/digital_pdf/synthetic_invoice.md,
+documents/images/synthetic_invoice.png,success,11.06,412,outputs/azure_invoice_test/images/synthetic_invoice.md,
+documents/invoices/images/invoice_scan.png,success,9.78,404,outputs/azure_invoice_test/invoices/images/invoice_scan.md,
+documents/scanned_pdf/synthetic_invoice_scan.pdf,success,32.82,410,outputs/azure_invoice_test/scanned_pdf/synthetic_invoice_scan.md,

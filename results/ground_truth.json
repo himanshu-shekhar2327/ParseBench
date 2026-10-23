@@ -1,0 +1,22 @@
+{
+  "vendor": "CraftWorks Supplies",
+  "invoice_number": "CW-2026-1042",
+  "invoice_date": "2026-10-15",
+  "customer": "ZeonAI Labs",
+  "items": [
+    {
+      "description": "Notebook",
+      "quantity": 10,
+      "unit_price": 50.0
+    },
+    {
+      "description": "Pen Set",
+      "quantity": 5,
+      "unit_price": 80.0
+    }
+  ],
+  "subtotal": 900.0,
+  "tax_rate_percent": 18,
+  "tax": 162.0,
+  "total": 1062.0
+}

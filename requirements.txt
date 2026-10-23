@@ -1,0 +1,19 @@
+# Backend API
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+pandas
+
+# Parser integrations
+liteparse
+docling
+llama-cloud
+azure-ai-documentintelligence
+
+# Test document generation
+python-docx
+openpyxl
+python-pptx
+reportlab
+Pillow

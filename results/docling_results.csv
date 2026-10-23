@@ -1,0 +1,9 @@
+
+
+document,format,status,duration_seconds,output_bytes,error
+documents/digital_pdf/synthetic_invoice.pdf,.pdf,success,67.8674,238,
+documents/scanned_pdf/synthetic_invoice_scan.pdf,.pdf,success,7.2221,242,
+documents/docx/synthetic_invoice.docx,.docx,success,0.1737,380,
+documents/xlsx/synthetic_invoice.xlsx,.xlsx,success,2.0949,700,
+documents/pptx/synthetic_invoice.pptx,.pptx,success,0.0673,367,
+documents/images/synthetic_invoice.png,.png,success,4.9029,239,
